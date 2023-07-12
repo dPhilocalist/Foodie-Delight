@@ -1,0 +1,62 @@
+
+
+.Navbar{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    position: fixed;
+    width: 100%;
+}
+a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+}
+.home{
+    margin-top: 1px;
+}
+h1{
+    font-family:cursive;
+    text-align: center;
+    padding: 10px;
+    color:darkmagenta;
+}
+h4{
+    text-align: center;
+}
+.enquiry{
+    text-align: center;
+}
+.orderbt{
+    background-color:white;
+    color: black;
+    height: 60px;
+    width: 200px;
+}
+.orderbt:hover{
+    background-color: black;
+    color:aliceblue;
+
+}
+.card{
+    border: 1px solid gray;
+    padding:10px;
+
+
+}
+.row{
+    display: flex;
+    padding-left: 15px;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: large;
+    padding:1pxss;
+}
+
+.add{
+    text-align: center;
+    color: black;
+}
